@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://AustinOestreich.github.io
+title: Awesome
+email: amichaeloestreich@yahoo.com
+author: AustinOestreich
+description: My awesome new site
+paginate: 3
+google_analytics: 
